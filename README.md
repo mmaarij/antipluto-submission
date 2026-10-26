@@ -36,4 +36,4 @@ To keep the production Python package clean, this separate repository is provide
 
 ## Setup and Running
 
-For instructions on how to install, configure, and run Anti-PLUTO, please see the README inside the [`antipluto`](antipluto/README.md) directory or visit the [main repository](https://github.com/mmaarij/antipluto).
+For instructions on how to install, configure, and run Anti-PLUTO, please see the README inside the [main repository](https://github.com/mmaarij/antipluto).
