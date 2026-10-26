@@ -1,0 +1,3 @@
+[submodule "antipluto"]
+	path = antipluto
+	url = https://github.com/mmaarij/antipluto.git
